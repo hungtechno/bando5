@@ -1,0 +1,127 @@
+
+
+#hienthongtin {
+  cursor: pointer;
+  position: absolute;
+  width: 90vw;
+  height: 95vh;
+  background-color: #ffa201;
+  border-radius: 5px;
+  color: #000;
+  font-weight: normal;
+  box-shadow: 0 0 4px 2px #a94c00;
+  top:-100%;
+  text-align:center;
+  display: none;
+    
+}
+.hienthongtin_childaudio {
+  position: absolute;
+  /* top: 0px;  de khung hien len khong bi nhay*/
+  background-color: transparent;
+  background-size: cover;
+  width: 90vw;
+  height: 40px;
+  color: #ffa201;
+  font-weight: bold;
+  display: none;
+       
+}
+
+.vitridnb {
+  cursor: pointer;
+  position: absolute;
+  background-color: #ffffff;
+  border-radius: 5px;
+  color: #000;
+  font-weight: bold;
+  box-shadow: 0 0 4px 2px #a94c00;
+  display: none;
+    padding: 5px 5px 5px 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #4da6ff;
+    color:#0000ff;
+    font-size:15px;
+}
+
+.vitri360 {
+  cursor: pointer;
+  position: absolute;
+  background-color: #ffffff;
+  border-radius: 5px;
+  color: #000;
+  font-weight: bold;
+  box-shadow: 0 0 4px 2px #a94c00;
+  display: none;
+    padding: 5px 5px 5px 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #4da6ff;
+    color:#0000ff;
+    font-size:15px;
+}
+
+
+
+.nuttm {
+  color:white;
+  background-color:#4CAF50;
+  height:40px;
+  position:absolute;
+  /*top:0;*/
+    padding: 0px 10px 0px 10px ;
+  /*right:65%;*/ 
+} 
+
+.nutmenucon {
+  font-family: sans-serif;
+  position:absolute;
+  left:0px;
+  border: 3px solid #0000cc;
+  border-radius:1vw 1vw 1vw 1vw;
+  padding: 1px;
+  background-color: #00b300;
+  opacity: 1;
+  color:#ffffff;
+  text-align: center;
+    font-weight: normal;
+    display:none;
+   
+}
+
+.nuttat {
+  cursor: pointer;
+  position: relative;
+  background-color: #000;
+  border-radius: 5px;
+  color:  #ffa201;
+  font-weight: bold;
+  box-shadow: 0 0 4px 2px #a94c00;
+  display: none;
+    padding: 4px 5px 4px 5px;
+    border-style: solid;
+    border-width: 1px;
+     
+   bottom: -100px; 
+  text-align:center;
+}
+
+.notevitri {
+  cursor: pointer;
+  position: absolute;
+  top:0px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  color: #000;
+  font-weight: bold;
+  box-shadow: 0 0 4px 2px #a94c00;
+  display: none;
+    padding: 2px 5px 2px 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #4da6ff;
+    color:#0000ff;
+    font-size:15px;
+    text-align:center;
+}
